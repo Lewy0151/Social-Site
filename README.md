@@ -23,7 +23,7 @@ A basic front-end-only social media stream built with **Next.js** and **Tailwind
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-github-username/social-stream.git
+git clone https://github.com/Lewy0151/social-site.git
 cd social-stream
 2. Install dependencies
 bash
